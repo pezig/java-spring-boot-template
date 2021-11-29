@@ -23,14 +23,14 @@ package com.zendesk.springboot;
 //     @Test
 //     public void getHello() throws Exception {
 //         ResponseEntity<String> response = template.getForEntity("/", String.class);
-//         assertThat(response.getBody()).isEqualTo("Greetings from Spring Boot!");
+//         assertThat(response.getBody()).isEqualTo("Hello World!");
 //     }
 
 //     // @Test
 //     // public void getWeather() throws Exception {
 //     //     ForecastList list = new ForecastList();
 //     //     ResponseEntity<List<Forecast>> response = template.getForEntity("weather", list.getClass());
-//     //     assertThat(response.getBody()).isEqualTo("Greetings from Spring Boot!");
+//     //     assertThat(response.getBody()).isEqualTo("Hello World!");
 //     // }
 
 //     public class ForecastList {
